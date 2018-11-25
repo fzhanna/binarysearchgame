@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr  2 20:52:15 2018
-
-@author: fadyhanna
-"""
-
 print("Please think of a number between 0 and 100!")
 low=0
 high=100
